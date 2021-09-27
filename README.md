@@ -1,3 +1,3 @@
 # NFT MINTER - Simple React App built on Ropsten
 
-yarn && yarn start
+git clone https://github.com/pengchew/NFT-MINTER.git && cd NFT-MINTER && yarn && yarn start
