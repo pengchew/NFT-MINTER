@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.dac7bf5b.chunk.css",
-    "main.js": "/static/js/main.f57f8124.chunk.js",
-    "main.js.map": "/static/js/main.f57f8124.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d96adb16.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d96adb16.js.map",
-    "static/js/2.46f2bf2c.chunk.js": "/static/js/2.46f2bf2c.chunk.js",
-    "static/js/2.46f2bf2c.chunk.js.map": "/static/js/2.46f2bf2c.chunk.js.map",
-    "static/js/3.776d84b2.chunk.js": "/static/js/3.776d84b2.chunk.js",
-    "static/js/3.776d84b2.chunk.js.map": "/static/js/3.776d84b2.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.dac7bf5b.chunk.css.map": "/static/css/main.dac7bf5b.chunk.css.map",
-    "static/js/2.46f2bf2c.chunk.js.LICENSE.txt": "/static/js/2.46f2bf2c.chunk.js.LICENSE.txt"
+    "main.css": "/NFT-MINTER/static/css/main.1d5c871e.chunk.css",
+    "main.js": "/NFT-MINTER/static/js/main.3e6b7dbe.chunk.js",
+    "main.js.map": "/NFT-MINTER/static/js/main.3e6b7dbe.chunk.js.map",
+    "runtime-main.js": "/NFT-MINTER/static/js/runtime-main.fd4274c0.js",
+    "runtime-main.js.map": "/NFT-MINTER/static/js/runtime-main.fd4274c0.js.map",
+    "static/js/2.be7ece1c.chunk.js": "/NFT-MINTER/static/js/2.be7ece1c.chunk.js",
+    "static/js/2.be7ece1c.chunk.js.map": "/NFT-MINTER/static/js/2.be7ece1c.chunk.js.map",
+    "static/js/3.6adb65bc.chunk.js": "/NFT-MINTER/static/js/3.6adb65bc.chunk.js",
+    "static/js/3.6adb65bc.chunk.js.map": "/NFT-MINTER/static/js/3.6adb65bc.chunk.js.map",
+    "index.html": "/NFT-MINTER/index.html",
+    "static/css/main.1d5c871e.chunk.css.map": "/NFT-MINTER/static/css/main.1d5c871e.chunk.css.map",
+    "static/js/2.be7ece1c.chunk.js.LICENSE.txt": "/NFT-MINTER/static/js/2.be7ece1c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d96adb16.js",
-    "static/js/2.46f2bf2c.chunk.js",
-    "static/css/main.dac7bf5b.chunk.css",
-    "static/js/main.f57f8124.chunk.js"
+    "static/js/runtime-main.fd4274c0.js",
+    "static/js/2.be7ece1c.chunk.js",
+    "static/css/main.1d5c871e.chunk.css",
+    "static/js/main.3e6b7dbe.chunk.js"
   ]
 }
