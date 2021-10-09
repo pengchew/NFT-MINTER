@@ -2,4 +2,4 @@
 
 ```git clone https://github.com/pengchew/NFT-MINTER.git && cd NFT-MINTER && yarn && yarn start```
 
-https://pengchew.github.io/NFT-MINTER/
+Build: https://pengchew.github.io/NFT-MINTER/
